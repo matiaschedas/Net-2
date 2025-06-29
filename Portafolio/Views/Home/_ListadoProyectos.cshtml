@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ProyectoDTO>
+@{
+}
+
+@if (Model is not null)
+{
+    var currentController = ViewContext.RouteData.Values["controller"]?.ToString();
+    var currentAction = ViewContext.RouteData.Values["action"]?.ToString();
+
+    <div class="container">
+        @if (currentController != "Home" || currentAction != "Proyectos")
+        {
+            <div class="row mb-3">
+                <div class="col d-flex justify-content-end">
+                    <a class="btn btn-primary" asp-area="" asp-controller="Home" asp-action="Proyectos">Todos los Proyectos</a>
+                </div>
+            </div>
+        }
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach (var proyecto in Model)
+            {
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="@proyecto.ImagenURL" class="card-img-top" alt="imagen proyecto" />
+                        <div class="card-body">
+                            <h5 class="card-title">@proyecto.Titulo</h5>
+                            <p class="card-text">@proyecto.Descripcion</p>
+                        </div>
+                        <div class="card-footer">
+                            <a class="btn btn-primary" href="@proyecto.Link" target="_blank" rel="noopener noreferrer">Visitar</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+}

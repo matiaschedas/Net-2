@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\portafolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:portafolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\servicios\\interfaces\\irepositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:servicios\\interfaces\\irepositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-29T20:25:42.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Habilidades.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_Habilidades.cshtml",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "RelativeToolTip": "Views\\Home\\_Habilidades.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T20:25:27.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contacto.cshtml",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\Contacto.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contacto.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T21:35:03.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ListadoProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_ListadoProyectos.cshtml",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+              "RelativeToolTip": "Views\\Home\\_ListadoProyectos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T14:33:46.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Proyectos.cshtml",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "RelativeToolTip": "Views\\Home\\Proyectos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T14:32:14.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_Presentacion.cshtml",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeToolTip": "Views\\Home\\_Presentacion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T14:28:16.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T14:26:53.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T00:10:57.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Portafolio.csproj",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Portafolio.csproj",
+              "RelativeDocumentMoniker": "Portafolio.csproj",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Portafolio.csproj",
+              "RelativeToolTip": "Portafolio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T00:10:43.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:30:59.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_SeccionProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_SeccionProyectos.cshtml",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeToolTip": "Views\\Home\\_SeccionProyectos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T14:33:53.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T14:30:29.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T23:30:52.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepositorioProyectos.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Servicios\\Interfaces\\IRepositorioProyectos.cs",
+              "RelativeDocumentMoniker": "Servicios\\Interfaces\\IRepositorioProyectos.cs",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Servicios\\Interfaces\\IRepositorioProyectos.cs",
+              "RelativeToolTip": "Servicios\\Interfaces\\IRepositorioProyectos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:39:08.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RepositorioProyectos.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Servicios\\RepositorioProyectos.cs",
+              "RelativeDocumentMoniker": "Servicios\\RepositorioProyectos.cs",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Servicios\\RepositorioProyectos.cs",
+              "RelativeToolTip": "Servicios\\RepositorioProyectos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:38:43.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:30:57.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

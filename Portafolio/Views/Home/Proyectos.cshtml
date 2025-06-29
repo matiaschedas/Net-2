@@ -1,0 +1,21 @@
+﻿@model IEnumerable<ProyectoDTO>
+
+@{
+    ViewData["Title"] = "Proyectos";
+}
+
+@if (Model is not null)
+{
+    <div class="container">
+        <h1>Mis Proyectos</h1>
+        <p>Aquí encontrarás todos los proyectos en los que he trabajado</p>
+    </div>
+}
+else
+{
+    <div class="container">
+        <h1>No hay proyectos disponibles</h1>
+        <p>Hubo un error al obtener el listado de proyectos.</p>
+    </div>
+}
+<partial name="_ListadoProyectos" model="Model"/>

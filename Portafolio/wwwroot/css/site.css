@@ -1,0 +1,76 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+.seccion-bienvenida{
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+.seccion-bienvenida h1 {
+    margin-bottom: 1rem;
+}
+
+.seccion-bienvenida p {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
+
+.cabecera{
+    font-weight: bold;
+}
+
+.habilidades ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.habilidades i{
+    color: #0d6efd;
+    font-size: 50px;
+}
+
+@media (max-width: 767.98px) {
+    /* Selector para tus columnas */
+    .habilidades {
+        border-radius: 15px !important; /* o el valor que quieras */
+    }
+}
+
+.contacto ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.contacto i {
+    color: #0d6efd;
+    font-size: 50px;
+}
