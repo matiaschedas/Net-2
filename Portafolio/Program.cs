@@ -9,6 +9,7 @@ builder.Services.AddControllersWithViews();
 //AddScoped --> Servicios delimitados a una misma peticion de http
 //AddSingleton --> Servicio que vive para simpre, es unico, siempre se va a servir la misma instancia del servicio
 builder.Services.AddTransient<IRepositorioProyectos, RepositorioProyectos>();
+builder.Services.AddTransient<IServicioEmail, ServicioEmailGmail>();
 
 var app = builder.Build();
 

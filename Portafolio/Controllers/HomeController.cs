@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Portafolio.Models;
+using Portafolio.Servicios;
 using Portafolio.Servicios.Interfaces;
 
 namespace Portafolio.Controllers
@@ -9,11 +10,13 @@ namespace Portafolio.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IRepositorioProyectos repositorioProyectos;
+        private readonly IServicioEmail servicioEmail;
 
-        public HomeController(ILogger<HomeController> logger, IRepositorioProyectos repositorioProyectos)
+        public HomeController(ILogger<HomeController> logger, IRepositorioProyectos repositorioProyectos, IServicioEmail servicioEmail)
         {
             _logger = logger;
             this.repositorioProyectos = repositorioProyectos;
+            this.servicioEmail = servicioEmail;
         }
 
         public IActionResult Index()
@@ -38,7 +41,19 @@ namespace Portafolio.Controllers
         public IActionResult Contacto()
         {
             return View();
-        }   
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Contacto(ContactoDTO contactoDTO)
+        {
+            await servicioEmail.Enviar(contactoDTO);
+            return RedirectToAction("Gracias");
+        }
+
+        public IActionResult Gracias()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
