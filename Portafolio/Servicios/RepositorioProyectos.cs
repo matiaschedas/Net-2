@@ -11,31 +11,75 @@ namespace Portafolio.Servicios
             {
                 new ProyectoDTO
                 {
-                    Titulo = "Amazon",
-                    Descripcion ="E-Commerce realizado en ASP.NET Core",
-                    Link= "https://amazon.com",
-                    ImagenURL ="/imagenes/amazon.png"
+                    Titulo = "Verde Mercado",
+                    Descripcion ="Verde Mercado es un E-Commerce para un cliente. Fue realizado en ASP.NET Core MVC, actualmente se encuentra funcionando en ambiente productivo",
+                    Tecnologias = new List<string>
+                    {
+                        "ASP.Net MVC",
+                        "Role-based Authorization",
+                        "ASP.Net Core Identity",
+                        "Entity Framework",
+                        "SQL Server",
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Bootstrap",
+                        "JQuery",
+                        "Ajax"
+                    },
+                    Funcionalidades = new List<string>
+                    {
+                        "Manejo de usarios (Registro, Login, Recuperación de cuenta, Edición de perfil)",
+                        "Manejo de Funcionalidades segun rol del usuario",
+                        "Administrador: Manejo de Productos, Pedidos, Ordenes, Usuarios",
+                        "Usuario: Creacion de carrito, Realización de pedidos, Busqueda de productos"
+                    },
+                    Link= "https://www.verdemercado.com.ar",
+                    ImagenesURL = new List<string>
+                    {
+                        "/imagenes/VerdeMercado1.png",
+                        "/imagenes/VerdeMercado2.png"
+                    },
+                    Id = 1
                 },
                 new ProyectoDTO
                 {
-                    Titulo = "New York Times",
-                    Descripcion ="Página de noticias en React",
-                    Link= "https://nytimes.com",
-                    ImagenURL ="/imagenes/nytimes.png"
-                },
-                new ProyectoDTO
-                {
-                    Titulo = "Reddit",
-                    Descripcion = "Red social para compatir en comunidades",
-                    Link = "https://reddit.com",
-                    ImagenURL = "/imagenes/reddit.png"
-                },
-                new ProyectoDTO
-                {
-                    Titulo = "Steam",
-                    Descripcion = "Tienda en linea para comprar videojuegos",
-                    Link = "https://store.steampowered.com",
-                    ImagenURL = "/imagenes/steam.png"
+                    Titulo = "NetChat",
+                    Descripcion ="Clon de Slack realizado en ASP.NET Web API y React con fines educativos",
+                    Tecnologias = new List<string>
+                    {
+                        "ASP.Net Web API",
+                        "ASP.Net Core Identity",
+                        "Entity Framework",
+                        "SQLite",
+                        "HTML",
+                        "CSS",
+                        "TypeScript",
+                        "React",
+                        "Axios",
+                        "SignalR",
+                        "Mobx",
+                        "AutoMapper",
+                        "Semantic UI",
+                        "MediatR",
+                        "JWT"
+                    },
+                    Funcionalidades = new List<string>
+                    {
+                        "Manejo de usuarios (Registro, Login)",
+                        "Creación de salas de chat",
+                        "Chat en salas de muchos usuarios simultaneos",
+                        "Chat con usuarios individuales",
+                        "Notificación de chats"
+                    },
+                    Link= "",
+                    ImagenesURL = new List<string>
+                    {
+                        "/imagenes/NetChat1.png",
+                        "/imagenes/NetChat2.png",
+                        "/imagenes/NetChat3.png"
+                    },
+                    Id = 2
                 }
             };
         }

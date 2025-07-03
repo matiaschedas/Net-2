@@ -38,6 +38,17 @@ namespace Portafolio.Controllers
             return View(proyectos);
         }
 
+   
+        public IActionResult Proyecto(int id)
+        {
+            var proyecto = repositorioProyectos.ObtenerProyectos().FirstOrDefault(p => p.Id == id);
+            if (proyecto == null)
+            {
+                return NotFound();
+            }
+            return View("_Proyecto", proyecto);
+        }
+
         public IActionResult Contacto()
         {
             return View();

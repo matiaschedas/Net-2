@@ -1,10 +1,14 @@
-wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\imagenes\amazon.png
 wwwroot\imagenes\foto1.jpg
+wwwroot\imagenes\NetChat1.png
+wwwroot\imagenes\NetChat2.png
+wwwroot\imagenes\NetChat3.png
 wwwroot\imagenes\nytimes.png
 wwwroot\imagenes\reddit.png
 wwwroot\imagenes\steam.png
+wwwroot\imagenes\VerdeMercado1.png
+wwwroot\imagenes\VerdeMercado2.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -66,7 +70,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-C:\Users\matia\source\repos\Segundo Curso Net\Portafolio\wwwroot\css\site.css
+wwwroot\css\site.css
 C:\Users\matia\source\repos\Segundo Curso Net\Portafolio\wwwroot\favicon.ico
 C:\Users\matia\source\repos\Segundo Curso Net\Portafolio\wwwroot\js\site.js
 C:\Users\matia\source\repos\Segundo Curso Net\Portafolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -128,3 +132,4 @@ C:\Users\matia\source\repos\Segundo Curso Net\Portafolio\wwwroot\lib\jquery\dist
 C:\Users\matia\source\repos\Segundo Curso Net\Portafolio\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\matia\source\repos\Segundo Curso Net\Portafolio\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\matia\source\repos\Segundo Curso Net\Portafolio\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\matia\source\repos\Segundo Curso Net\Portafolio\wwwroot\css\site.css
