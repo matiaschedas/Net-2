@@ -17,9 +17,6 @@ html {
   min-height: 100%;
 }
 
-body {
-  margin-bottom: 60px;
-}
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
   color: var(--bs-secondary-color);
@@ -88,3 +85,102 @@ body {
 .card:hover {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
  }
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+/**
+ Modo oscuro:
+*/
+
+.dark-mode {
+    background-color: #121212 !important;
+    color: #f0f0f0 !important;
+}
+
+.dark-mode a {
+    color: #90caf9 !important;
+}
+
+.dark-mode .card {
+    background-color: #1e1e1e !important;
+    color: #f0f0f0 !important;
+    border-color: #333 !important;
+}
+
+.dark-mode .card-footer {
+    background-color: #1e1e1e !important;
+    border-top: 1px solid #333 !important;
+}
+
+.dark-mode .btn-primary {
+    background-color: #2196f3 !important;
+    border-color: #2196f3 !important;
+}
+
+.dark-mode .bg-light {
+    background-color: #1e1e1e !important;
+}
+
+.dark-mode .text-dark {
+    color: #f0f0f0 !important;
+}
+
+.dark-mode footer {
+    background-color: #1e1e1e !important;
+    color: #ccc !important;
+}
+
+.dark-mode .navbar,
+.dark-mode header {
+    background-color: #1e1e1e !important;
+    border-bottom: 1px solid #333 !important; /* borde oscuro */
+    box-shadow: none !important; /* para quitar sombras blancas si las hubiera */
+}
+
+
+.dark-mode .nav-link.text-dark {
+    color: #f0f0f0 !important;
+}
+
+.dark-mode .habilidades.bg-white {
+    background-color: #1e1e1e !important;
+    box-shadow: 0 5px 5px 0 #000000cc !important; /* sombra más oscura y sutil */
+    color: #f0f0f0 !important;
+}
+
+/* Cambiar el color de los íconos .bi que están dentro */
+.dark-mode .habilidades.bg-white i {
+    color: #90caf9 !important; /* o algún azul claro que quede bien en modo oscuro */
+}
+
+/* Cambiar el color de textos que usan .text-primary (que en modo oscuro queda muy claro el azul bootstrap) */
+.dark-mode .habilidades.bg-white .text-primary {
+    color: #90caf9 !important;
+}
+
+.dark-mode .navbar-toggler-icon {
+    filter: invert(1);
+}
+
+.dark-mode .navbar-toggler {
+    border-color: #f0f0f0 !important; /* borde claro visible */
+}
+.dark-mode .navbar {
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+.navbar {
+    min-height: 56px;
+}

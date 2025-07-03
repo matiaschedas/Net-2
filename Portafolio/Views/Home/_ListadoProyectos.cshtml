@@ -21,8 +21,16 @@
             {
                 var imagen = proyecto.ImagenesURL[1] ?? "";
                 <div class="col">
-                    <div class="card h-100">
-                        <img src="@imagen" class="card-img-top" alt="imagen proyecto" />
+                    <div class="card h-100" onclick="location.href='@Url.Action("Proyecto", "Home", new { id = proyecto.Id })'">
+                        @{
+                            var imagenWebp = imagen.Replace(".png", ".webp");
+                            var imagenPng = imagen;
+                        }
+                        <picture>
+                            <source srcset="@imagenWebp" type="image/webp"/>
+                            <source srcset="@imagenPng" type="image/png"/>
+                            <img src="@imagenPng" class="card-img-top" alt="imagen proyecto" />
+                        </picture>
                         <div class="card-body">
                             <h5 class="card-title">@proyecto.Titulo</h5>
                             <p class="card-text">@proyecto.Descripcion</p>

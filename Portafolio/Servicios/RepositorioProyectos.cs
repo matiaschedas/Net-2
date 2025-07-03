@@ -45,7 +45,7 @@ namespace Portafolio.Servicios
                 new ProyectoDTO
                 {
                     Titulo = "NetChat",
-                    Descripcion ="Clon de Slack realizado en ASP.NET Web API y React con fines educativos",
+                    Descripcion ="Clon de Slack realizado en ASP.NET Web API y React con fines de aprendizaje",
                     Tecnologias = new List<string>
                     {
                         "ASP.Net Web API",

@@ -15,7 +15,15 @@
                 {
                     var activeClass = i == 0 ? "active" : "";
                     <div class="carousel-item @activeClass">
-                        <img src="@Model.ImagenesURL[i]" class="d-block w-100 rounded" alt="Imagen del proyecto @i" style="max-height: 500px; object-fit: contain;" />
+                        <picture>
+                            @{
+                                var webpURL = @Model.ImagenesURL[i].Replace(".png", ".webp");
+                                var pngURL = @Model.ImagenesURL[i];
+                            }
+                            <source srcset="@webpURL" type="image/webp"/>
+                            <source srcset="@pngURL" type="image/png" />
+                            <img src="@Model.ImagenesURL[i]" loading="lazy" class="d-block w-100 rounded" alt="Imagen del proyecto @i" style="max-height: 500px; object-fit: contain;" />
+                        </picture>
                     </div>
                 }
             </div>
