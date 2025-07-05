@@ -213,15 +213,11 @@ main {
 
 .reveal {
     opacity: 0;
-    transform: translateY(100px);
-    transition: opacity 0.6s ease, transform 0.6s ease;
+    transform: translateY(200px);
+    transition: opacity 1.2s ease, transform 1.2s ease;
 }
 
 .reveal.visible {
     opacity: 1;
     transform: translateY(0);
-}
-
-body, html {
-    min-height: 200vh; /* para que la página sea al menos el doble de la altura de la pantalla */
 }

@@ -4,7 +4,6 @@
     <script>
         document.addEventListener("DOMContentLoaded", function () {
             const reveals = document.querySelectorAll(".reveal");
-            console.log('aca si entro')
             const observer = new IntersectionObserver((entries) => {
                 entries.forEach(entry => {
                     console.log('Intersection:', entry.target, entry.isIntersecting);
