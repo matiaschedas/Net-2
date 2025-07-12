@@ -145,13 +145,12 @@ main {
 
 .dark-mode .habilidades.bg-white {
     background-color: #1e1e1e !important;
-    box-shadow: 0 5px 5px 0 #000000cc !important; /* sombra más oscura y sutil */
+    box-shadow: 0 5px 5px 0 #000000cc !important; /* sombra más oscura */
     color: #f0f0f0 !important;
 }
 
-/* Cambiar el color de los íconos .bi que están dentro */
 .dark-mode .habilidades.bg-white i {
-    color: #90caf9 !important; /* o algún azul claro que quede bien en modo oscuro */
+    color: #90caf9 !important;
 }
 
 /* Cambiar el color de textos que usan .text-primary (que en modo oscuro queda muy claro el azul bootstrap) */
@@ -160,12 +159,13 @@ main {
 }
 
 .dark-mode .navbar-toggler-icon {
-    filter: invert(1);
+    filter: invert(1) !important;
 }
 
 .dark-mode .navbar-toggler {
     border-color: #f0f0f0 !important; /* borde claro visible */
 }
+
 .dark-mode .navbar {
     border-bottom: none !important;
     box-shadow: none !important;

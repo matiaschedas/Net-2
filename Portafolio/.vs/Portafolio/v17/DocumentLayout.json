@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58528286-FB93-4B2C-A708-7507471A4F52}|Portafolio.csproj|c:\\users\\matia\\source\\repos\\segundo curso net\\portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -81,19 +81,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T14:30:29.186Z"
+              "WhenOpened": "2025-06-26T14:30:29.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -181,13 +182,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\matia\\source\\repos\\Segundo Curso Net\\Portafolio\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAMoAAAAAAAAAAAAAAN8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAYwKQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-06-29T20:25:42.154Z",
               "EditorCaption": ""
